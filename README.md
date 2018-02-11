@@ -3,7 +3,7 @@
 HappyDeliv menyediakan layanan yang memungkinkan perusahaan pengiriman barang memberikan fasilitas real-time tracking
 bagi para konsumen mereka.
 ## Screenshot App ##
-![Splash Screen App](http://happydeliv.com/public/images/app_mini.png)
+![Splash Screen App](http://happydeliv.com/public/images/app_mini.PNG)
 
 ## Detail Proyek ##
 Proyek ini terbagi menjadi 3 bagian: 
