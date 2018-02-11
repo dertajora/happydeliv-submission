@@ -19,5 +19,5 @@ Berikut merupakan stack yang digunakan pada proyek ini:
 - MySQL
 
 ### Developed By ###
-- [Derta](https://id.linkedin.com/in/deassyrizky)
+- [Derta](https://www.linkedin.com/in/derta-isyajora-20148950/)
 - [Ibnu](https://id.linkedin.com/in/ibnu-muzzakkir-094985107)
