@@ -11,6 +11,11 @@ Proyek ini terbagi menjadi 3 bagian:
 - App Android HappyDeliv untuk kurir
 - App Android HappyDeliv untuk end-user
 
+## Repository Proyek ##
+- [Web, Dashboard dan API](https://github.com/dertajora/happydeliv)
+- [App untuk end-user](https://github.com/astroidnu/happydelivapp)
+- [App untuk kurir](https://github.com/astroidnu/happydelivappcourier)
+
 ## Stack yang digunakan ##
 Berikut merupakan stack yang digunakan pada proyek ini: 
 - Laravel
